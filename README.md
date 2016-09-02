@@ -45,14 +45,11 @@ SOFTWARE.
 
 
   [url-screencast]: http://www.youtube.com/watch?v=1CdoCB96QNk
-  [url-docs]: http://simov.github.io/express-admin
-  [url-examples]: http://github.com/simov/express-admin-examples
-  [url-tests]: https://github.com/simov/express-admin-tests
+  [url-examples]: http://github.com/TKimura416/Node_WebAdminExamples
+  [url-tests]: http://github.com/TKimura416/Node_WebAdminTests
   [url-npm]: https://www.npmjs.org/package/express-admin
-  [url-travis]: https://travis-ci.org/simov/express-admin
 
   [img-screenshot]: http://i.imgur.com/6wFggqg.png (Express Admin)
   [img-npm-install]: https://nodei.co/npm/express-admin.png?mini=true (NPM Install)
   [img-npm-version]: http://img.shields.io/npm/v/express-admin.svg?style=flat-square (NPM Version)
   [img-npm-downloads]: http://img.shields.io/npm/dm/express-admin.svg?style=flat-square (NPM Downloads)
-  [img-travis]: http://img.shields.io/travis/simov/express-admin.svg?style=flat-square (Build Status)

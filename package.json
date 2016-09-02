@@ -1,5 +1,5 @@
 {
-    "name": "express-admin",
+    "name": "Node_WebAdmin",
     "version": "1.2.8",
     "description": "MySql, MariaDB, SQLite and PostgreSQL database admin built with Express and Bootstrap",
     "keywords": [
@@ -13,11 +13,11 @@
         "bootstrap"
     ],
     "license"   : "MIT",
-    "homepage"  : "https://github.com/simov/express-admin",
-    "author"    : "Simeon Velichkov <simeonvelichkov@gmail.com> (http://simov.github.io)",
+    "homepage"  : "https://github.com/TKimura416/Node_WebAdmin",
+    "author"    : "Takuya Kimura <kimuratakuya416@gmail.com>",
     "repository": {
         "type"  : "git",
-        "url"   : "https://github.com/simov/express-admin.git"
+        "url"   : "git://github.com/TKimura416/Node_WebAdmin.git"
     },
     "dependencies": {
         "express"          : "4.4.4",
@@ -42,7 +42,7 @@
         "deep-copy"        : "1.0.0",
         "xsql"             : "1.0.1",
         "moment"           : "2.8.3",
-        "express-admin-static": "2.2.2"
+        "Node_WebAdminStatic": "2.2.2"
     },
     "devDependencies": {
         "mocha" : "1.20.1",
